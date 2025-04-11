@@ -1,1 +1,2 @@
 #blank
+print(1)
